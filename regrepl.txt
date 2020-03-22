@@ -1,0 +1,27 @@
+REGREPL.EXE -- Freeware by Olof Lagerkvist 1998-2007.
+http://www.ltr-data.se
+
+This software may be copied or distributed free but must not be changed. The
+files REGREPL.EXE and REGREPL.TXT must be distributed together. Note! My
+programs are not tested in all possible environments under all possible
+circumstances. The author is not responsible for actions caused by the programs
+on the machines they are used. If you have any suggestions or other comments,
+please send me an e-mail!
+
+You can get syntax help for all programs I have written, including window based,
+by typing /? as first switch.
+
+REGREPL.EXE runs under Windows 3.1x with Win32s, Windows 95 or Windows NT.
+
+Why I wrote this program
+------------------------
+The Registry Editor is a great tool when you want to find out what is really
+stored in the Windows Registry. You can easily search for any text. But I wanted
+a "replace all" command, so therefore I wrote this program.
+
+Comments? Suggestions? Want the source code?
+--------------------------------------------
+Visit web site:
+http://www.ltr-data.se
+Or write an e-mail:
+sm6xmk@ssa.se
